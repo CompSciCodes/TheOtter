@@ -1,0 +1,218 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	/*border: solid black;
+	border-width: thick;*/
+	margin-left: 15px;
+	margin-right: 15px;						
+}		
+
+h1, h2, h3 {
+	text-align: center;
+}
+
+p {
+	font-size: 1.5rem;
+	text-align: justify;
+}
+
+td {	
+	padding-left: 1rem;
+	padding-right: 1rem;
+	font-size: 1rem;	
+}
+
+th {
+	font-size: 1.5rem;
+}
+
+.uil {
+	margin: auto;
+	width: 100%;	
+}
+
+.mainHeader {
+	color: #4d4d4d;						
+}
+
+.logo {
+	display: block;
+  	margin-left: auto;  			
+  	margin-right: auto;
+  	width: 60%;  		  			  
+}
+
+.code {
+	display: block;
+  	margin-left: auto;  			
+  	margin-right: auto;
+  	width: 80%;
+}
+
+.console {
+	display: block;
+  	margin-left: auto;  			
+  	margin-right: auto;
+  	width: 95%;
+}
+
+.top {
+	background-color: #b3e6ff; /* #ffe066 */
+	padding-top: 1rem;
+  	padding-bottom: 1rem;
+  	/*border: solid black;*/
+}
+
+.navBar {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+.about {
+	border: solid black;
+}
+
+#main {
+	color: white;
+}
+
+#poit {
+	color: #ff6600;
+}
+
+#cm {
+	color: #9966ff;
+}
+
+.main {
+	background-color: #0088cc;	
+}
+
+.poit {
+	background-color: #ff6600;
+}
+
+.cm {
+	background-color: #9966ff;
+}
+
+.main:hover, .poit:hover, .cm:hover {
+  background-color: gray;
+}
+
+a.link:link {
+	text-decoration: none;	
+	color: black;
+}
+
+a.link:visited {
+	color: black;
+}
+
+a.link:hover {
+	color: black;
+}
+
+a.link:active {
+  color: white;
+}
+
+.body, .form {
+	/*border: solid black;*/	
+	padding-left: 1rem;
+	padding-right: 1rem;
+	padding-top: .25rem;
+	padding-bottom: 1rem;	
+}
+
+.form {
+	text-align: center;
+	font-size: 1.75rem;
+}
+
+input {
+	font-size: 1.5rem;
+	font-family: 'Montserrat', sans-serif;	
+	color: red;
+}
+
+textarea {
+	font-size: 1.5rem;
+	font-family: 'Montserrat', sans-serif;
+	text-align: justify;	
+	color: gray;
+}
+
+.checkbox {	
+	height: 1.5rem;
+	width: 1.5rem;
+}
+
+.info {
+	color: blue;
+	text-align: center;
+}
+
+#today {
+	text-align: center;
+}
+
+.resources {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+.extras, .uilData {
+	text-align: center;
+	font-size: 1.5rem
+}
+
+.opps {	
+	padding-left: 1rem;
+	padding-right: 1rem;
+	padding-top: .25rem;
+	padding-bottom: 1rem;
+}
+
+.divider {
+	text-align: center;
+}
+
+.oppsHeader {
+	text-align: center;
+	text-decoration: underline;
+}
+
+.downArrow {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 5%;
+}
+
+.otter {
+	display: block;
+  	margin-left: auto;  			
+  	margin-right: auto;
+  	width: 15%;
+}
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
