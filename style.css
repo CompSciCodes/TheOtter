@@ -49,7 +49,7 @@ th {
 	display: block;
   	margin-left: auto;  			
   	margin-right: auto;
-  	width: 80%;
+  	width: 50%;
 }
 
 .console {
@@ -85,7 +85,7 @@ th {
 }
 
 #cm {
-	color: #9966ff;
+	color: #405082;
 }
 
 .main {
@@ -97,7 +97,7 @@ th {
 }
 
 .cm {
-	background-color: #9966ff;
+	background-color: #405082;
 }
 
 .main:hover, .poit:hover, .cm:hover {
